@@ -1,1 +1,1 @@
-# Titanice
+# Titanic
